@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Data Teman</string>
+    <string name="github">ini adalah halaman github</string>
+    <string name="profil">ini adalah halaman profil</string>
+    <string name="friends">ini adalah halaman teman</string>
+</resources>
